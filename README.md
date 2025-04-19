@@ -64,8 +64,8 @@ Testing Accuracy: 99.90%
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/tshirt-sneaker-bayes-classifier.git
-cd tshirt-sneaker-bayes-classifier
+git clone https://github.com/shah-br/Bayesian-Classification-with-PCA-on-Fashion-MNIST.git
+cd Bayesian-Classification-with-PCA-on-Fashion-MNIST
 
 # 2. Place the following dataset files in the same directory:
 #    - train_data.mat
